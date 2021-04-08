@@ -1,0 +1,3 @@
+gitfolio build augusnunes -f --sort star --theme dark --background https://thedatacompany.com/wp-content/uploads/2020/06/June-Blog-1500x960.jpg --linkedin augusto-nunes-837381175 --medium @n.augus6 --order desc
+mv dist/* ./
+rm dist/

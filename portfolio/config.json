@@ -4,15 +4,13 @@
   "name": "Augusto Nunes",
   "userimg": "https://avatars.githubusercontent.com/u/45122027?v=4",
   "sort": "star",
-  "order": "asc",
+  "order": "desc",
   "includeFork": true,
   "theme": "dark.css",
   "types": [
-   "owner"
+   "all"
   ],
-  "twitter": null,
-  "linkedin": null,
-  "medium": null,
-  "dribbble": null
+  "linkedin": "augusto-nunes-837381175",
+  "medium": "@n.augus6"
  }
 ]
